@@ -1,7 +1,5 @@
 ### Ola Eu sou o Matheus Valerio 👋🙃
-- 🔭 I’m currently working on ...
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: matheus.vallerio@gmail.com
 - 😄 Pronouns: Ele/Dele
 -->
 <div align="center">
